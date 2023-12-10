@@ -15,8 +15,8 @@ export default function page() {
           <SearchBar />
 
           <div className="home__filter-container">
-            <CustomFilter title="fuel"  />
-            <CustomFilter title="year"  />
+            <CustomFilter />
+            <CustomFilter />
           </div>
         </div>
       </div>
